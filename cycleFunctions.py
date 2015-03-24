@@ -1,0 +1,3 @@
+def product():
+
+def inverse():
